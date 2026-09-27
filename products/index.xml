@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Products on Jivilytics Health</title>
-		<link>https://nehakaushik2025.github.io/%20/products/</link>
+		<link>https://nehakaushik2025.github.io/products/</link>
 		<description>Recent content in Products on Jivilytics Health</description>
 		<generator>Hugo</generator>
 		<language>en-au</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Mon, 27 Jul 2026 22:18:58 +1000</lastBuildDate>
 		
-			<atom:link href="https://nehakaushik2025.github.io/%20/products/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://nehakaushik2025.github.io/products/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Web and Mobile App Solutions</title>
-				<link>https://nehakaushik2025.github.io/%20/products/web-mobile-app/</link>
+				<link>https://nehakaushik2025.github.io/products/web-mobile-app/</link>
 				<pubDate>Mon, 27 Jul 2026 22:18:58 +1000</pubDate>
-				<guid>https://nehakaushik2025.github.io/%20/products/web-mobile-app/</guid>
+				<guid>https://nehakaushik2025.github.io/products/web-mobile-app/</guid>
 				<description>&lt;p&gt;Our web and mobile app solutions are designed to support patients throughout their healthcare journey by providing a simple and accessible digital experience. The solution aims to make it easier for patients to access relevant information, services, and support when they need it. By bringing key resources together in one convenient platform, it can help improve patient engagement, simplify interactions, and create a more connected and supportive healthcare experience.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>AI Solutions</title>
-				<link>https://nehakaushik2025.github.io/%20/products/ai-solutions/</link>
+				<link>https://nehakaushik2025.github.io/products/ai-solutions/</link>
 				<pubDate>Sun, 12 Jul 2026 05:59:19 +1000</pubDate>
-				<guid>https://nehakaushik2025.github.io/%20/products/ai-solutions/</guid>
+				<guid>https://nehakaushik2025.github.io/products/ai-solutions/</guid>
 				<description>&lt;p&gt;Building AI-powered healthcare solutions for customers involves creating secure, intelligent, and user-friendly experiences that address real healthcare needs. These solutions can help customers access relevant information, receive personalized support, simplify healthcare journeys, and make more informed decisions. By combining AI with strong privacy, security, accuracy, and responsible AI practices, healthcare companies can deliver trusted solutions that improve customer experience and engagement.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Medical Devices</title>
-				<link>https://nehakaushik2025.github.io/%20/products/medical-devices/</link>
+				<link>https://nehakaushik2025.github.io/products/medical-devices/</link>
 				<pubDate>Sun, 05 Jul 2026 09:56:28 +1000</pubDate>
-				<guid>https://nehakaushik2025.github.io/%20/products/medical-devices/</guid>
+				<guid>https://nehakaushik2025.github.io/products/medical-devices/</guid>
 				<description>&lt;p&gt;We provide high-quality medical devices designed to support specialists and clinics in delivering efficient, reliable, and patient-focused care. Our solutions help healthcare professionals assess, diagnose, treat, and monitor patients with greater confidence, while supporting smoother clinical workflows and better patient experiences. By combining trusted technology with practical, easy-to-use solutions, we aim to help healthcare providers focus on what matters most—delivering the best possible care to their patients.&lt;/p&gt;</description>
 			</item>
 	</channel>

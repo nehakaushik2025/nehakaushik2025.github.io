@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Jivilytics Health</title>
-		<link>https://nehakaushik2025.github.io/%20/categories/</link>
+		<link>https://nehakaushik2025.github.io/categories/</link>
 		<description>Recent content in Categories on Jivilytics Health</description>
 		<generator>Hugo</generator>
 		<language>en-au</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://nehakaushik2025.github.io/%20/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://nehakaushik2025.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
